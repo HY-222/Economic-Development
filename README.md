@@ -9,6 +9,10 @@ The daytime remote sensing images are crawled from the arcgis website. You can a
 Train the model and extract the score. This method consists of four steps: feature extraction, feature clustering, model training based on ranking learning and index assignment. Through these steps, we can get the score for each image, that is, the grid scale score.
 
 ## Evaluation
-The effect of model feature extraction is visualized by the Grad-CAM method. See
+The effect of model feature extraction is visualized by the Grad-CAM method. See ***/Grad-CAM/Grad-CAM.ipynb***.
+
+We conducts research on the balance and agglomeration of multi-scale regional development in China. The Theil index is used to decompose the regional development differences, study the main sources of the differences.  See ***/theil&moran/cor&theil.ipynb***.
+
+Then we use  spatial autocorrelation analysis to identify whether the unbalanced state is randomly distributed. See ***/theil&moran/Moran.ipynb***
 
 
