@@ -6,4 +6,4 @@ Before validation, we need to download the model dependencies first
 cd A-journey-into-Convolutional-Neural-Network-visualization-/
 ```
 
-Then test the effect of feature extraction according to the Economic-Development/Grad-CAM/Grad-CAM.ipynb
+Then test the effect of feature extraction according to the Grad-CAM.ipynb
