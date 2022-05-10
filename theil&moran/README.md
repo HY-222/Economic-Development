@@ -1,4 +1,4 @@
-We conducts research on the balance and agglomeration of multi-scale regional development in China. 
+We conducts research on the balance and agglomeration of  regional development in China. 
 
 In **cor&theil.ipynb**, we examine thr correlation between the index and economic variables, and use the Theil index to decompose the regional development differences.
 
